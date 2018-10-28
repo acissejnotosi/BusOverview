@@ -1,0 +1,11 @@
+C:\Users\cibien\Jessica\proj\BusOverview\BusOverview\bin\Debug\netcoreapp2.0\BusOverview.deps.json
+C:\Users\cibien\Jessica\proj\BusOverview\BusOverview\bin\Debug\netcoreapp2.0\BusOverview.dll
+C:\Users\cibien\Jessica\proj\BusOverview\BusOverview\obj\Debug\netcoreapp2.0\BusOverview.csproj.CoreCompileInputs.cache
+C:\Users\cibien\Jessica\proj\BusOverview\BusOverview\obj\Debug\netcoreapp2.0\BusOverview.AssemblyInfoInputs.cache
+C:\Users\cibien\Jessica\proj\BusOverview\BusOverview\obj\Debug\netcoreapp2.0\BusOverview.AssemblyInfo.cs
+C:\Users\cibien\Jessica\proj\BusOverview\BusOverview\bin\Debug\netcoreapp2.0\BusOverview.runtimeconfig.json
+C:\Users\cibien\Jessica\proj\BusOverview\BusOverview\bin\Debug\netcoreapp2.0\BusOverview.runtimeconfig.dev.json
+C:\Users\cibien\Jessica\proj\BusOverview\BusOverview\bin\Debug\netcoreapp2.0\BusOverview.pdb
+C:\Users\cibien\Jessica\proj\BusOverview\BusOverview\obj\Debug\netcoreapp2.0\BusOverview.dll
+C:\Users\cibien\Jessica\proj\BusOverview\BusOverview\obj\Debug\netcoreapp2.0\BusOverview.pdb
+C:\Users\cibien\Jessica\proj\BusOverview\BusOverview\obj\Debug\netcoreapp2.0\BusOverview.csprojAssemblyReference.cache
